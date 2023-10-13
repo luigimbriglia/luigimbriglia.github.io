@@ -113,7 +113,7 @@ content:
           lorem ipsum ...
       - layout: top-middle
         title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings"
-        coauthors: "(w/ Chatterjee, Corbae, Dempsey, and RíosRull)"
+        subtitle: "(w/ Chatterjee, Corbae, Dempsey, and RíosRull)"
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
