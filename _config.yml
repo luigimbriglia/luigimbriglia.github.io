@@ -1,0 +1,205 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Martin Farias
+title: Economics PhD Candidate at CEMFI
+email: martin.farias@cemfi.edu.es
+#website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: jmartin_farias
+github_username:  fariasmartin
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: martin-farias-b04052137
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+### I am an Economics PhD candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}. My research interests include Economics of Banking and Corporate Finance.
+
+about_profile_image: images/profile14.jpg
+about_content: | # this will include new lines to allow paragraphs
+  
+  ## I am an Economics Ph.D. Candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}, Madrid. My research interests include Corporate Finance and Economics of Banking.
+
+  ## As I approach the final stages of my Ph.D., I am actively seeking positions that provide a stimulating and dynamic environment, where I can make a positive impact and contribute to meaningful projects.
+  
+  <br/><br/>
+
+  ## You can find my CV [here](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}.
+
+  
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
+content:
+  - title: References
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      
+      <table>
+        <style>
+          table {
+            font-size: 24px;
+            width: 100%; /* Set the table width to 100% to make it span the entire available space */
+          }
+
+          th, td {
+            text-align: center; /* Center the content within table cells */
+          }
+        </style>
+          <colgroup>
+            <col width="34%" />
+            <col width="34%" />
+            <col width="33%" />
+          </colgroup>
+        <thead>
+          <tr class="header">
+            <th markdown="span">[Javier Suarez (Advisor)](https://www.cemfi.es/~suarez/){: target="_blank" rel="noopener noreferrer"}</th>
+            <th markdown="span">[Samuel Bentolila](https://sites.google.com/view/samuel-bentolila-home){: target="_blank" rel="noopener noreferrer"}</th>
+            <th markdown="span">[Rafael Repullo](https://www.cemfi.es/~repullo/){: target="_blank" rel="noopener noreferrer"}</th>
+          </tr>
+        </thead>
+      </table>
+    
+  - title: Research # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: "The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions"
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          <p style="text-align:center"><a href="/others/papers/P2.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
+        description: | # this will include new lines to allow paragraphs
+          This paper studies the impact of financial frictions on the allocation of cash flow using administrative data of Spanish non-financial corporations from 2003 to 2019. Employing an analytical framework based on the uses and sources of funds identity, I estimate regression models to examine the allocation of cash flow across its competing uses. My findings reveal that larger financial frictions are, on average, associated with a higher proportion of cash flow allocated to debt repayment and lower proportions allocated to cash savings, investment, and dividend distribution. The analysis also highlights that the effect of financial frictions on the allocation of cash flow varies significantly with variables capturing the economic and financial situation of each firm such as leverage, cash holdings, capital, and the availability of investment opportunities.
+      - layout: top-middle
+        title: "A Model of Interacting Banks and Money Market Funds (w/ Javier Suarez)"
+        quote: >
+          <p style="text-align:center"><a href="/others/papers/P1.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
+        description: |
+          We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms' management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms' capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms' savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs.
+
+    
+
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Assistance
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
+        caption: January 2022 - Present
+        quote: >
+          I am part of a project exploring the interconnection of loss Aversion, fatigue, and digital addiction
+        description: | # this will include new lines to allow paragraphs
+          My tasks include:
+          - Using the API of a popular mobile game (Clash Royale) to track the behavior of users over time
+          - Cleaning the data and studying the prevalence of loss aversion and its relationship with fatigue
+          - Writing reports discussing my findings and guiding the work of a junior research assistant
+
+      - layout: left
+        title: Research Assistance
+        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
+        caption: July 2019 - September 2019
+        quote: >
+          I assisted in a project testing the influence of luck on the outcomes of tennis players
+        description: | # this will include new lines to allow paragraphs
+            My tasks included:
+            - Developing algorithms in Python to predict tennis match outcomes
+            - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
+            - Communicating my findings to the research team working on the project
+      - layout: left
+        title: Teaching (at CEMFI)
+        #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
+        #caption: July 2019 - September 2019
+        quote: >
+          I graded problem sets and led classes where I explained the solutions to the students
+        description: | # this will include new lines to allow paragraphs
+            - <b>Corporate Finance:</b> Teaching assistance for <a href="https://www.cemfi.es/~suarez/"  target="_blank" rel="noopener noreferrer">Javier Suarez</a>. Spring 2021, 2022
+            - <b>Microeconomics:</b> Teaching assistance for <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer">Guillermo Caruana</a>. Fall 2021
+
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Harvard University
+  #       caption: 2010 - 2013
+  #       sub_title: BSc Computer Science
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbings
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     | Tables        | Are           | Cool  |
+  #     | ------------- |:-------------:| -----:|
+  #     | col 3 is      | right-aligned | $1600 |
+  #     | col 2 is      | centered      |   $12 |
+  #     | zebra stripes | are neat      |    $1 |
+      
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg)
+
+# Footer
+# footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
