@@ -151,8 +151,8 @@ content:
         title: Teaching (at CEMFI)
         #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
         #caption: July 2019 - September 2019
-        quote: >
-          I graded problem sets and led classes where I explained the solutions to the students
+        # quote: >
+          # I graded problem sets and led classes where I explained the solutions to the students
         description: | # this will include new lines to allow paragraphs
             - <b>Microeconometrics:</b> Teaching assistance for <a href="https://www.cemfi.es/~arkangelsky/"  target="_blank" rel="noopener noreferrer">Dmitry Arkangelsky</a>. Fall 2021
             - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://www.cemfi.es/~ravn/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
