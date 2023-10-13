@@ -158,7 +158,7 @@ content:
         # quote: >
           # I graded problem sets and led classes where I explained the solutions to the students
         description: | # this will include new lines to allow paragraphs
-            - Research Assistant for <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer">Josep Pijoan-Mas</a>
+            - Research Assistance for <b>Josep Pijoan-Mas</b>
       - layout: left
         title: Teaching (at CEMFI)
         #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
