@@ -112,7 +112,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           lorem ipsum ...
       - layout: top-middle
-        title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings (w/ Chatterjee, Corbae, Dempsey, and Rios Rull)"
+        title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings <br/> (w/ Chatterjee, Corbae, Dempsey, and Rios Rull)"
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
