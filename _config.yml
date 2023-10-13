@@ -112,7 +112,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           lorem ipsum ...
       - layout: top-middle
-        title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings <br/> (w/ <a href="https://sites.google.com/site/chatterjeesatyajit/home"  target="_blank" rel="noopener noreferrer">Chatterjee</a>, Corbae, Dempsey, and Rios Rull)"
+        title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings <br/> (w/ <a href="https://sites.google.com/site/chatterjeesatyajit/home/"  target="_blank" rel="noopener noreferrer">Chatterjee</a>, Corbae, Dempsey, and Rios Rull)"
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
@@ -166,8 +166,8 @@ content:
         # quote: >
           # I graded problem sets and led classes where I explained the solutions to the students
         description: | # this will include new lines to allow paragraphs
-            - <b>Microeconometrics:</b> Teaching assistance for <a href="https://www.cemfi.es/~arkangelsky/"  target="_blank" rel="noopener noreferrer">Dmitry Arkangelsky</a>. Fall 2021
-            - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://www.https://sites.google.com/view/mortenoravn/home/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
+            - <b>Microeconometrics:</b> Teaching assistance for <a href="https://sites.google.com/view/dmitry-arkhangelsky/home/"  target="_blank" rel="noopener noreferrer">Dmitry Arkhangelsky</a>. Fall 2021
+            - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://sites.google.com/view/mortenoravn/home/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
             - <b>Intro Mathematics:</b> Teaching assistance for <a href="https://www.cemfi.es/~amengual/"  target="_blank" rel="noopener noreferrer">Dante Amengual</a>. Fall 2022
 
   # - title: Education # Title for the section
