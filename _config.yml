@@ -168,7 +168,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             - <b>Microeconometrics:</b> Teaching assistance for <a href="https://sites.google.com/view/dmitry-arkhangelsky/home/"  target="_blank" rel="noopener noreferrer">Dmitry Arkhangelsky</a>. Fall 2021
             - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://sites.google.com/view/mortenoravn/home/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
-            - <b>Intro Mathematics:</b> Teaching assistance for <a href="https://www.cemfi.es/~amengual/"  target="_blank" rel="noopener noreferrer">Dante Amengual</a>. Fall 2022
+            - <b>Mathematics:</b> Teaching assistance for <a href="https://www.cemfi.es/~amengual/"  target="_blank" rel="noopener noreferrer">Dante Amengual</a>. Fall 2022
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
