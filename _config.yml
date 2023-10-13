@@ -152,6 +152,14 @@ content:
       # #       - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
       # #       - Communicating my findings to the research team working on the project
       - layout: left
+        title: R.A. (at CEMFI)
+        #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
+        #caption: July 2019 - September 2019
+        # quote: >
+          # I graded problem sets and led classes where I explained the solutions to the students
+        description: | # this will include new lines to allow paragraphs
+            Research Assistant for Josep Pijoan-Mas
+      - layout: left
         title: Teaching (at CEMFI)
         #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
         #caption: July 2019 - September 2019
