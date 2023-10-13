@@ -127,7 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research Assistance for <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a>
+        title: R.A.
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Working under the supervision of <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a> 
@@ -146,7 +146,8 @@ content:
       #   caption: July 2019 - September 2019
       #   quote: >
       #     I assisted in a project testing the influence of luck on the outcomes of tennis players
-      #   description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
+        Research Assistance for <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a>
       #       My tasks included:
       #       - Developing algorithms in Python to predict tennis match outcomes
       #       - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
