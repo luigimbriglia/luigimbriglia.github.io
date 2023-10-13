@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Martin Farias
+name: Luigi Briglia
 title: Economics PhD Candidate at CEMFI
-email: martin.farias@cemfi.edu.es
+email: luigi.briglia@cemfi.edu.es
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jmartin_farias
-github_username:  fariasmartin
+twitter_username: luigimbriglia
+github_username:  luigimbriglia
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: martin-farias-b04052137
+# linkedin_username: martin-farias-b04052137
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -51,13 +51,12 @@ linkedin_username: martin-farias-b04052137
 about_profile_image: images/profile14.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  ## I am an Economics Ph.D. Candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}, Madrid. My research interests include Corporate Finance and Economics of Banking.
+  ## I am an Economics Ph.D. Candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}, Madrid. My research interests include Macroeconomics and Econometrics.
 
-  ## As I approach the final stages of my Ph.D., I am actively seeking positions that provide a stimulating and dynamic environment, where I can make a positive impact and contribute to meaningful projects.
   
   <br/><br/>
 
-  ## You can find my CV [here](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}.
+  ## You can find my CV [here](/others/CV/CV_lmb.pdf){: target="_blank" rel="noopener noreferrer"}.
 
   
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
@@ -84,9 +83,9 @@ content:
           </colgroup>
         <thead>
           <tr class="header">
-            <th markdown="span">[Javier Suarez (Advisor)](https://www.cemfi.es/~suarez/){: target="_blank" rel="noopener noreferrer"}</th>
-            <th markdown="span">[Samuel Bentolila](https://sites.google.com/view/samuel-bentolila-home){: target="_blank" rel="noopener noreferrer"}</th>
-            <th markdown="span">[Rafael Repullo](https://www.cemfi.es/~repullo/){: target="_blank" rel="noopener noreferrer"}</th>
+            <th markdown="span">[Josep Pijoan-Mas (Advisor)](https://www.cemfi.es/~pijoan/){: target="_blank" rel="noopener noreferrer"}</th>
+            <th markdown="span">[Manuel Arellano](https://www.cemfi.es/~arellano/){: target="_blank" rel="noopener noreferrer"}</th>
+            <th markdown="span">[Pedro Mira](https://www.cemfi.es/~mira/){: target="_blank" rel="noopener noreferrer"}</th>
           </tr>
         </thead>
       </table>
@@ -95,7 +94,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "The Allocation of Cash Flow by Spanish Firms: New Evidence on the Impact of Financial Frictions"
+        title: "Consumption Risk and Wealth Dynamics"
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -106,15 +105,15 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          <p style="text-align:center"><a href="/others/papers/P2.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
+          <p style="text-align:center"><a href="/others/papers/jmp.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: | # this will include new lines to allow paragraphs
-          This paper studies the impact of financial frictions on the allocation of cash flow using administrative data of Spanish non-financial corporations from 2003 to 2019. Employing an analytical framework based on the uses and sources of funds identity, I estimate regression models to examine the allocation of cash flow across its competing uses. My findings reveal that larger financial frictions are, on average, associated with a higher proportion of cash flow allocated to debt repayment and lower proportions allocated to cash savings, investment, and dividend distribution. The analysis also highlights that the effect of financial frictions on the allocation of cash flow varies significantly with variables capturing the economic and financial situation of each firm such as leverage, cash holdings, capital, and the availability of investment opportunities.
+          lorem ipsum ...
       - layout: top-middle
-        title: "A Model of Interacting Banks and Money Market Funds (w/ Javier Suarez)"
+        title: "Sunnyday (w/ cohautors)"
         quote: >
-          <p style="text-align:center"><a href="/others/papers/P1.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
+          <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
-          We examine the interaction between banks and Money Market Funds (MMFs) in a setup where the latter can experience large redemptions following an aggregate liquidity shock (as in March 2020). In the model, MMFs and bank deposits are alternatives for firms' management of their cash holdings. MMFs experiencing correlated redemptions get forced to sell assets to banks in narrow markets, producing asset price declines. Ex post the price declines damage firms' capacity to cover their needs with the redeemed shares. Ex ante the prospect of such an effect reduces the attractiveness of MMFs relative to bank deposits. Yet the equilibrium allocation of firms' savings exhibits an excessive reliance on MMFs since firms fail to internalize their effect on the size of the pecuniary externalities caused by future redemptions. This provides a rationale, distinct from first-mover advantages, for the macroprudential regulation of the investment in MMFs.
+          Lorem ipsum ...
 
     
 
@@ -127,27 +126,27 @@ content:
         title: Research Assistance
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
+        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a> 
         caption: January 2022 - Present
-        quote: >
-          I am part of a project exploring the interconnection of loss Aversion, fatigue, and digital addiction
-        description: | # this will include new lines to allow paragraphs
-          My tasks include:
-          - Using the API of a popular mobile game (Clash Royale) to track the behavior of users over time
-          - Cleaning the data and studying the prevalence of loss aversion and its relationship with fatigue
-          - Writing reports discussing my findings and guiding the work of a junior research assistant
+        # quote: >
+        #   I am part of a project exploring the interconnection of loss Aversion, fatigue, and digital addiction
+        # description: | # this will include new lines to allow paragraphs
+        #   My tasks include:
+        #   - Using the API of a popular mobile game (Clash Royale) to track the behavior of users over time
+        #   - Cleaning the data and studying the prevalence of loss aversion and its relationship with fatigue
+        #   - Writing reports discussing my findings and guiding the work of a junior research assistant
 
-      - layout: left
-        title: Research Assistance
-        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
-        caption: July 2019 - September 2019
-        quote: >
-          I assisted in a project testing the influence of luck on the outcomes of tennis players
-        description: | # this will include new lines to allow paragraphs
-            My tasks included:
-            - Developing algorithms in Python to predict tennis match outcomes
-            - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
-            - Communicating my findings to the research team working on the project
+      # - layout: left
+      #   title: Research Assistance
+      #   sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
+      #   caption: July 2019 - September 2019
+      #   quote: >
+      #     I assisted in a project testing the influence of luck on the outcomes of tennis players
+      #   description: | # this will include new lines to allow paragraphs
+      #       My tasks included:
+      #       - Developing algorithms in Python to predict tennis match outcomes
+      #       - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
+      #       - Communicating my findings to the research team working on the project
       - layout: left
         title: Teaching (at CEMFI)
         #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
@@ -155,8 +154,9 @@ content:
         quote: >
           I graded problem sets and led classes where I explained the solutions to the students
         description: | # this will include new lines to allow paragraphs
-            - <b>Corporate Finance:</b> Teaching assistance for <a href="https://www.cemfi.es/~suarez/"  target="_blank" rel="noopener noreferrer">Javier Suarez</a>. Spring 2021, 2022
-            - <b>Microeconomics:</b> Teaching assistance for <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer">Guillermo Caruana</a>. Fall 2021
+            - <b>Microeconometrics:</b> Teaching assistance for <a href="https://www.cemfi.es/~arkangelsky/"  target="_blank" rel="noopener noreferrer">Dmitry Arkangelsky</a>. Fall 2021
+            - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://www.cemfi.es/~ravn/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
+            - <b>Intro Mathematics:</b> Teaching assistance for <a href="https://www.cemfi.es/~amengual/"  target="_blank" rel="noopener noreferrer">Dante Amengual</a>. Fall 2022
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
