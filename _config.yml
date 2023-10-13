@@ -123,10 +123,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research Assistance
+        title: Research Assistance for <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a>
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Working under the supervision of <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a> 
+        # sub_title: Working under the supervision of <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a> 
         caption: January 2022 - Present
         # quote: >
         #   I am part of a project exploring the interconnection of loss Aversion, fatigue, and digital addiction
