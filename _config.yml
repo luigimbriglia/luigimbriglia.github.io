@@ -101,7 +101,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "Job Market Paper <br/> <b>"Consumption Risk and Wealth Dynamics"</b>"
+        title: Job Market Paper             <b>"Consumption Risk and Wealth Dynamics"</b>
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -116,7 +116,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Lorem ipsum dolor sit amet consectetur adipiscing elit mi egestas sem lacinia, nostra sed elementum tincidunt etiam mus phasellus tellus venenatis tempor et, velit congue vulputate ultrices himenaeos lacus ante urna conubia dignissim. Dapibus porta rutrum nulla praesent erat sodales lobortis facilisis magna curabitur habitant, bibendum ridiculus pellentesque sociis dictumst ante nascetur urna dui ullamcorper, mauris et pharetra integer quisque porttitor diam parturient purus non. Nullam ultricies velit nulla nisi a taciti enim laoreet vitae massa orci, proin pharetra morbi integer in lacus magnis cubilia cras.
       - layout: top-middle
-        title: <b>"Saving for a Sunny Day: An Alternative Theory of Precautionary Savings</b> <br/> (w/ <b>Chatterjee</b>, <b>Corbae</b>, <b>Dempsey</b>, and <b>Rios-Rull</b>)"
+        title: <b>"Saving for a Sunny Day: An Alternative Theory of Precautionary Savings"</b> <br/> (w/ <b>Chatterjee</b>, <b>Corbae</b>, <b>Dempsey</b>, and <b>Rios-Rull</b>)
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
