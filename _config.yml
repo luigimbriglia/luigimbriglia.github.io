@@ -51,11 +51,19 @@ github_username:  luigimbriglia
 about_profile_image: images/profile13.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  ## I am an Economics Ph.D. Candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}, Madrid. My research interests include Macroeconomics and Econometrics.
+  ## I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"} in Madrid. 
 
-  <br/><br/>
+  <br/>
+  
+  My research focuses on <code style-"color : orangered">macroeconomics</code>, econometrics, and household dynamics.
 
-  ## You can find my JMP [here](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}.
+  <br/>
+
+  I will be on the <b>Job Market for Economists<b/> on the 2023-2024 academic year.
+  
+  <br/>
+
+  ## Here's my [Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}.
 
   <br/>
 
