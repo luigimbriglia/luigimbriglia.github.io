@@ -55,19 +55,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   <br/>
   
-  My research focuses on <code style-"color : orangered">macroeconomics</code>, econometrics, and household dynamics.
+  ## My research focuses on <b>macroeconomics</b>, <b>econometrics</b>, and <b>household dynamics</b>.
 
   <br/>
 
-  I will be on the <b>Job Market for Economists<b/> on the 2023-2024 academic year.
+  ## I will be on the <b>Job Market for Economists</b> on the 2023-2024 academic year.
   
   <br/>
 
-  ## Here's my [Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}.
-
-  <br/>
-
-  ## You can find my CV [here](/others/CV/CV_lmb.pdf){: target="_blank" rel="noopener noreferrer"}.
+  ## Here's my [Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}. And my [CV](/others/CV/CV_lmb.pdf){: target="_blank" rel="noopener noreferrer"}.
 
   
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
