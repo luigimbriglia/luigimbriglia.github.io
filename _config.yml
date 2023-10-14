@@ -101,7 +101,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <b>[Job Market Paper]</b>: "Consumption Risk and Wealth Dynamics" <font size="-2">(draft coming soon!)</font>
+        title: <b>[Job Market Paper]</b>: "Consumption Risk and Wealth Dynamics" <small>(draft coming soon!)</small>
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
