@@ -101,7 +101,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: (JMP) <b>Household Wealth Dynamics at the Bottom; Income and Expenditure Risk</b> - draft coming soon!
+        title: (JMP) <b>Household Wealth Dynamics at the Bottom; the Role of Income and Expenditure Risk</b> - draft coming soon!
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
