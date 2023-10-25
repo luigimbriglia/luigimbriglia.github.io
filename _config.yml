@@ -102,7 +102,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: (JMP) <b>Household Wealth Dynamics at the Bottom; the Role of Income and Expenditure Risk</b> - draft coming soon!
+        title: (JMP) <b>Wealth Dynamics at the Bottom; Income Risk and Unpredicted Expenditure</b> - draft coming soon!
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -115,7 +115,7 @@ content:
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/jmp.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: | # this will include new lines to allow paragraphs
-          This paper investigates the role of expenditure risk, alongside income risk, in explaining household wealth dynamics. Using the Panel Survey of Income Dynamics (PSID), I identify expenditure risk and its link to observed wealth dynamics. Unexplained consumption expenditure, which deviates from the classical income risk framework predictions, exhibits persistence suggesting persistent shocks to household. I find that shocks to consumption, rather than income, predict households’ persistence into non-positive wealth positions. I propose a theoretical framework to model expenditure risk and explore its nature, considering both unobservable shocks to household marginal utility and resource-draining shocks to expenditure. Only unobserved persistent shocks to marginal utility can fit the observed pattern in the data, suggesting a fundamental difference in the nature of income and consumption risk; the latter captures a persistent change in household consumption-savings trade off that does not lies in the space of the distribution of available resources across time and states of the world.
+          This paper investigates the role of surprises in expenditure and income, in explaining household wealth dynamics. Using the Panel Survey of Income Dynamics (PSID), I estimate a flexible semi-structural consumption model to identify income and expenditure risk and their link to observed wealth dynamics. Deviations between observed consumption and its empirical prediction counterpart can be modeled as an autoregressive stochastic process indicating the existence of persistent shocks to household expenditure. Both income and expenditure risk affect wealth dynamics, with the latter assuming more relevance for households at the bottom of the wealth distribution. Moreover, while income risk can predict episodes of falling into non-positive net worth positions, it is expenditure risk that plays a bigger role in the persistence of these low net worth statuses. I propose a theoretical framework to model expenditure risk, exploring its properties wrt income risk, considering both shocks to marginal utility and resource-draining shocks to expenditure. Marginal utility shocks hitting only a fraction of household non-durable consumption provide the best fit explaining wealth dynamics around zero net worth, suggesting a fundamental difference in the nature of income and expenditure risk; the latter capturing a persistent change in the household intertemporal trade-off that does not lie in the same space of the distribution of available resources across time and states of the world.
       - layout: top-middle
         title: "<b>Saving for a Sunny Day: An Alternative Theory of Precautionary Savings</b> <br/> (with S. Chatterjee, D. Corbae, K. Dempsey, and J.V. Rios-Rull)"
         # quote: >
