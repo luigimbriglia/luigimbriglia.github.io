@@ -63,9 +63,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   <br/>
 
-  ## Here you can find my <b>[Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b> and my <b>[CV](/others/CV/CV_lmb.pdf){: target="_blank" rel="noopener noreferrer"}</b>.
+  ## Here you can find my <b>[CV](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}</b>.
 
-  
+# <b>[Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b> and my 
+
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
 content:
   - title: References
