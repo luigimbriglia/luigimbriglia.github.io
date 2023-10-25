@@ -22,7 +22,7 @@ github_username:  luigimbriglia
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: martin-farias-b04052137
+# linkedin_username: aaa
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -51,7 +51,7 @@ github_username:  luigimbriglia
 about_profile_image: images/profile13.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  ## I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"} in Madrid. 
+  ## I am a PhD Candidate in Economics at <b>[CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}</b> in Madrid. 
 
   <br/>
   
@@ -63,9 +63,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   <br/>
 
-  ## Here's my [Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}. And my [CV](/others/CV/CV_lmb.pdf){: target="_blank" rel="noopener noreferrer"}.
+  ## Here you can find my <b>[CV](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}</b>.
 
-  
+# <b>[Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b> and my 
+
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
 content:
   - title: References
@@ -101,7 +102,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <b>Job Market Paper</b> "Consumption Risk and Wealth Dynamics" (draft coming soon!)
+        title: (JMP) <b>Household Wealth Dynamics at the Bottom; the Role of Income and Expenditure Risk</b> - draft coming soon!
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -114,9 +115,9 @@ content:
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/jmp.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet consectetur adipiscing elit mi egestas sem lacinia, nostra sed elementum tincidunt etiam mus phasellus tellus venenatis tempor et, velit congue vulputate ultrices himenaeos lacus ante urna conubia dignissim. Dapibus porta rutrum nulla praesent erat sodales lobortis facilisis magna curabitur habitant, bibendum ridiculus pellentesque sociis dictumst ante nascetur urna dui ullamcorper, mauris et pharetra integer quisque porttitor diam parturient purus non. Nullam ultricies velit nulla nisi a taciti enim laoreet vitae massa orci, proin pharetra morbi integer in lacus magnis cubilia cras.
+          This paper investigates the role of expenditure risk, alongside income risk, in explaining household wealth dynamics. Using the Panel Survey of Income Dynamics (PSID), I identify expenditure risk and its link to observed wealth dynamics. Unexplained consumption expenditure, which deviates from the classical income risk framework predictions, exhibits persistence suggesting persistent shocks to household. I find that shocks to consumption, rather than income, predict households’ persistence into non-positive wealth positions. I propose a theoretical framework to model expenditure risk and explore its nature, considering both unobservable shocks to household marginal utility and resource-draining shocks to expenditure. Only unobserved persistent shocks to marginal utility can fit the observed pattern in the data, suggesting a fundamental difference in the nature of income and consumption risk; the latter captures a persistent change in household consumption-savings trade off that does not lies in the space of the distribution of available resources across time and states of the world.
       - layout: top-middle
-        title: "Saving for a Sunny Day: An Alternative Theory of Precautionary Savings <br/> (w/ <b>Chatterjee</b>, <b>Corbae</b>, <b>Dempsey</b>, and <b>Rios-Rull</b>)"
+        title: "<b>Saving for a Sunny Day: An Alternative Theory of Precautionary Savings</b> <br/> (with S. Chatterjee, D. Corbae, K. Dempsey, and J.V. Rios-Rull)"
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/sunnyday.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: |
