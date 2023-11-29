@@ -102,7 +102,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: (JMP) <b>Wealth Dynamics at the Bottom; Income Risk and Unpredicted Expenditure</b> - draft coming soon!
+        title: (<b>[JMP](/others/papers/briglia_jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b>) <b>Wealth Dynamics at the Bottom; Income Risk and Unpredicted Expenditure</b> - draft coming soon!
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
