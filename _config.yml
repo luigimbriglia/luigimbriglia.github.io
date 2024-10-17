@@ -48,6 +48,7 @@ github_username:  luigimbriglia
 # about_title: About Me
 ### I am an Economics PhD candidate at [CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}. My research interests include Economics of Banking and Corporate Finance.
 # I am a PhD Candidate in Economics at <b>[CEMFI](https://www.cemfi.es){: target="_blank" rel="noopener noreferrer"}</b> in Madrid. 
+# ## Here you can find my <b>[CV](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}</b>.
 
 about_profile_image: images/profile_uni-tue_v2.jpg
 about_content: | # this will include new lines to allow paragraphs
@@ -59,8 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
   ## My research focuses on <b>macroeconomics</b>, <b>econometrics</b>, and <b>household dynamics</b>.
   
   <br/>
-
-  ## Here you can find my <b>[CV](/others/CV/CV-english.pdf){: target="_blank" rel="noopener noreferrer"}</b>.
 
 # <b>[Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b> and my 
 
