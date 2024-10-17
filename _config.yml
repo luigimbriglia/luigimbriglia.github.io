@@ -95,54 +95,7 @@ content:
 
 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      # - layout: left
-      #   title: R.A.
-      #   # link: boringcompany.com
-      #   # link_text: boringcompany.com
-      #   # sub_title: Working under the supervision of <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a> 
-      #   caption: January 2022 - Present
-      #   # quote: >
-      #   #   I am part of a project exploring the interconnection of loss Aversion, fatigue, and digital addiction
-      #   # description: | # this will include new lines to allow paragraphs
-      #   #   My tasks include:
-      #   #   - Using the API of a popular mobile game (Clash Royale) to track the behavior of users over time
-      #   #   - Cleaning the data and studying the prevalence of loss aversion and its relationship with fatigue
-      #   #   - Writing reports discussing my findings and guiding the work of a junior research assistant
-
-      # # - layout: left
-      # #   title: Research Assistance
-      # #   sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"  target="_blank" rel="noopener noreferrer"><b>Guillermo Caruana</b></a> 
-      # #   caption: July 2019 - September 2019
-      # #   quote: >
-      # #     I assisted in a project testing the influence of luck on the outcomes of tennis players
-      #   description: | # this will include new lines to allow paragraphs
-      #   Research Assistance for <a href="https://www.cemfi.es/~pijoan/"  target="_blank" rel="noopener noreferrer"><b>Josep Pijoan-Mas</b></a>
-      # #       My tasks included:
-      # #       - Developing algorithms in Python to predict tennis match outcomes
-      # #       - Comparing the accuracy of these algorithms with that of well-established techniques like ELO
-      # #       - Communicating my findings to the research team working on the project
-      - layout: left
-        title: R.A.
-        #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
-        #caption: July 2019 - September 2019
-        # quote: >
-          # I graded problem sets and led classes where I explained the solutions to the students
-        description: | # this will include new lines to allow paragraphs
-            - Research Assistance for <b>Josep Pijoan-Mas</b>
-      - layout: left
-        title: Teaching (at CEMFI)
-        #sub_title: Working under the supervision of <a href="https://www.cemfi.es/~caruana/"><b>Guillermo Caruana</b></a> 
-        #caption: July 2019 - September 2019
-        # quote: >
-          # I graded problem sets and led classes where I explained the solutions to the students
-        description: | # this will include new lines to allow paragraphs
-            - <b>Microeconometrics:</b> Teaching assistance for <a href="https://sites.google.com/view/dmitry-arkhangelsky/home/"  target="_blank" rel="noopener noreferrer">Dmitry Arkhangelsky</a>. Fall 2021
-            - <b>Macroeconomics II:</b> Teaching assistance for <a href="https://sites.google.com/view/mortenoravn/home/"  target="_blank" rel="noopener noreferrer">Morten Ravn</a>. Spring 2022
-            - <b>Mathematics:</b> Teaching assistance for <a href="https://www.cemfi.es/~amengual/"  target="_blank" rel="noopener noreferrer">Dante Amengual</a>. Fall 2022
-
+  
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
