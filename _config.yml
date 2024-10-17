@@ -64,36 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # <b>[Job Market Paper](/others/papers/jmp.pdf){: target="_blank" rel="noopener noreferrer"}</b> and my 
 
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> s
-content:
-  - title: References
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      
-      <table>
-        <style>
-          table {
-            font-size: 24px;
-            width: 100%; /* Set the table width to 100% to make it span the entire available space */
-          }
 
-          th, td {
-            text-align: center; /* Center the content within table cells */
-          }
-        </style>
-          <colgroup>
-            <col width="34%" />
-            <col width="34%" />
-            <col width="33%" />
-          </colgroup>
-        <thead>
-          <tr class="header">
-            <th markdown="span">[Josep Pijoan-Mas (Advisor)](https://www.cemfi.es/~pijoan/){: target="_blank" rel="noopener noreferrer"}</th>
-            <th markdown="span">[Manuel Arellano](https://www.cemfi.es/~arellano/){: target="_blank" rel="noopener noreferrer"}</th>
-            <th markdown="span">[Pedro Mira](https://www.cemfi.es/~mira/){: target="_blank" rel="noopener noreferrer"}</th>
-          </tr>
-        </thead>
-      </table>
     
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
