@@ -69,7 +69,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <b>Income Risk, Unpredicted Expenses, and Transitions Toward Zero-Wealth</b> - <it>new</it> draft coming soon!
+        title: <b>Income Risk, Unpredicted Expenses, and Transitions Toward Zero-Wealth</b>
+	<br>  
+        <b><a href="/research/expenditure_risk.pdf" target="_blank">New Draft!</a></b>
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -82,7 +84,7 @@ content:
         # quote: >
         #   <p style="text-align:center"><a href="/others/papers/jmp.pdf" target="_blank" rel="noopener noreferrer">Download the latest version.</a></p>
         description: | # this will include new lines to allow paragraphs
-          This paper investigates the empirical and theoretical roles of income and expenditure risk in explaining household wealth dynamics. Despite economic theory emphasizing precautionary savings, approximately 22\% of U.S. households hold zero or negative wealth, exposing themselves to consumption fluctuations. Using data from the Panel Study of Income Dynamics (PSID), I develop an econometric framework to independently identify expenditure risk from income risk. The findings show that both risks significantly affect wealth dynamics, with permanent income shocks leading to persistent depletion of family wealth and transitions to non-positive net worth positions. Expenditure risk, modeled as shocks to the marginal utility of a fraction of the household consumption basket, creates a wedge in the optimal intertemporal condition for consumption growth and savings dynamics. This negatively affects the household’s ability to adjust expenditure when facing negative permanent income shocks. The study contributes to the literature on consumption inequality and the spending behavior of low-wealth households by refining empirical approaches and incorporating a flexible non-parametric consumption model. The results highlight the critical role of expenditure risk in financial vulnerability and suggest that it should be considered in models of household wealth transitions.
+          This paper investigates the role of expenditure risk (ER)—persistent, unpredictable spending shocks—in shaping household wealth loss dynamics. Using PSID data (1999–2021), I document that, on average, 10\% of U.S. households see their net worth drop to zero or negative levels between consecutive survey waves. While standard models attribute these transitions to income fluctuations, my empirical analysis finds that ER explains 6.73\% of these wealth loss episodes, compared to 2.27\% for transitory income risk, while permanent income risk plays no role. To rationalize these findings, I develop a heterogeneous-agent model in which ER enters as persistent shocks to the marginal utility of a fraction of the household consumption basket. The model shows that ER creates a wedge in the intertemporal Euler equation, altering optimal savings behavior and amplifying financial vulnerability. This mechanism generates wealth loss episodes consistent with the data and reveals how ER affects household wealth accumulation beyond income shocks alone. This paper highlights a previously overlooked driver of household dynamics by jointly identifying ER alongside IR and explaining their differential impact on wealth loss.
       - layout: top-middle
         title: "<b>Saving for a Sunny Day: An Alternative Theory of Precautionary Savings</b> <br/> (with S. Chatterjee, D. Corbae, K. Dempsey, and J.V. Rios-Rull)"
         # quote: >
