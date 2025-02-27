@@ -69,9 +69,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <b>Income Risk, Unpredicted Expenses, and Transitions Toward Zero-Wealth</b>
-	<br>  
-        <b><a href="/research/expenditure_risk.pdf" target="_blank">New Draft!</a></b>
+        title: <b>Income Risk, Unpredicted Expenses, and Transitions Toward Zero-Wealth</b><br>  
+               <b><a href="/research/expenditure_risk.pdf" target="_blank">New Draft!</a></b>
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
