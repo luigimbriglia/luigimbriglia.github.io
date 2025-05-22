@@ -69,7 +69,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <b>Expenditure Risk and Household Wealth Dynamics</b><br>  
+        title: <b>Idiosyncratic Expenditure Risk as a Driver of Hand-to-Mouth Transition Dynamics</b><br>  
                <b><a href="/research/expenditure_risk.pdf" target="_blank">New Draft!</a></b>
         # link: github.com/sproogen
         # link_text: Project Website
