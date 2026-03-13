@@ -1,0 +1,18 @@
+.DS_Store
+
+# Local-only folders
+CV/
+
+# Jekyll / GitHub Pages build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler local state
+.bundle/
+vendor/bundle/
+
+# Editor junk
+*.swp
+*.swo
